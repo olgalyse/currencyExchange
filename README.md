@@ -1,2 +1,2 @@
 # currencyExchange
-This is my trying to use a Javascript code for ceaing a small currency exchange page
+This is my trying to use a Javascript code for creating a small currency exchange page
