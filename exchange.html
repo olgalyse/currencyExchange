@@ -9,7 +9,11 @@
 
 	<h3>1$ = 26.85 UAH</h3>
 
-	<script type="text/javascript" src="scripts/exchange.js"></script>
+	<script type="text/javascript">
+	var numberOfDollars = prompt("Сколько " +
+		"долларов вы хотите поменять?");
+	alert("Вы получите " + (numberOfDollars  * 26.85) + " гривен");
+	</script>
 
 </body>
 </html>
